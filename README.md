@@ -9,4 +9,4 @@ Dynamically renders image thumbnails along with the author's name
 Clean, responsive layout built with HTML, CSS, and JavaScript
 
 🔗 Live Demo:
-👉 View the Live Project
+👉 Click here to view the live site
